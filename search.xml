@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>&#39;iOS添加各地区节假日日历&#39;</title>
+      <link href="/2024/03/05/iOS%E6%B7%BB%E5%8A%A0%E5%90%84%E5%9C%B0%E5%8C%BA%E8%8A%82%E5%81%87%E6%97%A5%E6%97%A5%E5%8E%86/"/>
+      <url>/2024/03/05/iOS%E6%B7%BB%E5%8A%A0%E5%90%84%E5%9C%B0%E5%8C%BA%E8%8A%82%E5%81%87%E6%97%A5%E6%97%A5%E5%8E%86/</url>
+      
+        <content type="html"><![CDATA[<p>iOS一般都会自带默认地区的节假日日历，例如国行版本自带中国大陆节假日日历（2022年已经有调休信息）。</p><p>下面介绍其他国家地区的日历订阅方法（如果只有iPhone：设置——邮件——账户——添加账户——其他——添加已订阅的日历。如果还有MacOS，则推荐在MacOS的日历——文件——新建日历订阅中添加，这样可以通过iCloud同步到iOS），参考来自<a href="https://chesblog.com/2019/03/28/APPLE%E5%AE%98%E6%96%B9%E6%97%A5%E5%8E%86%E8%AE%A2%E9%98%85%E5%9C%B0%E5%9D%80/">Che’s Blog</a>的文章，并实测有效：</p><p>香港 （ 显示为： <strong>香港公众假期</strong>。香港政府官方链接）：&#96;&#96;</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">www.1823.gov.hk/common/ical/sc.ics</span><br></pre></td></tr></table></figure><p>台湾 （ 显示为： <strong>台湾节日</strong>） ：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">webcal://p10-calendars.icloud.com/holiday/TW_zh.ics</span><br></pre></td></tr></table></figure><p>美国（显示为：<strong>US Holidays</strong>）：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">webcal://p10-calendars.icloud.com/holiday/US_en.ics</span><br></pre></td></tr></table></figure><p>日本 （显示为：<strong>日本の祝日</strong>） ：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">webcal://p10-calendars.icloud.com/holiday/JP_ja.ics</span><br></pre></td></tr></table></figure><p>澳大利亚（ 显示为： <strong>Australian Holidays</strong>）：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">webcal://p10-calendars.icloud.com/holiday/AU_en.ics</span><br></pre></td></tr></table></figure><p>新加坡 （ 显示为： <strong>新加坡节假日</strong>） ：</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">webcal://p10-calendars.icloud.com/holiday/SG_zh.ics </span><br></pre></td></tr></table></figure>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> IOS，假日日历 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>&#39;网络编程懒人入门(二)：快速理解网络通信协议（下篇）&#39;</title>
       <link href="/2024/02/21/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E6%87%92%E4%BA%BA%E5%85%A5%E9%97%A8-%E4%BA%8C-%EF%BC%9A%E5%BF%AB%E9%80%9F%E7%90%86%E8%A7%A3%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1%E5%8D%8F%E8%AE%AE%EF%BC%88%E4%B8%8B%E7%AF%87%EF%BC%89/"/>
       <url>/2024/02/21/%E7%BD%91%E7%BB%9C%E7%BC%96%E7%A8%8B%E6%87%92%E4%BA%BA%E5%85%A5%E9%97%A8-%E4%BA%8C-%EF%BC%9A%E5%BF%AB%E9%80%9F%E7%90%86%E8%A7%A3%E7%BD%91%E7%BB%9C%E9%80%9A%E4%BF%A1%E5%8D%8F%E8%AE%AE%EF%BC%88%E4%B8%8B%E7%AF%87%EF%BC%89/</url>
